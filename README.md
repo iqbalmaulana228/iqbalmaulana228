@@ -1,5 +1,4 @@
 # 👋 Hello! I'm Iqbal Maulana
-  ![ChatGPT Image Apr 16, 2025, 03_05_37 PM](https://github.com/user-attachments/assets/4a86ac34-c409-456c-8f42-5c388bed5540)
 🌐 Aspiring Web Developer | Passionate about Frontend Technologies
 
 ---
