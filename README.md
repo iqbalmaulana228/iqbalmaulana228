@@ -1,39 +1,67 @@
-# Hai, saya Iqbal Maulana! 👋
+# 💫 About Me
 
-Seorang pengembang web yang antusias dengan ketertarikan kuat dalam membangun antarmuka pengguna yang intuitif dan solusi _backend_ yang efisien. Saya suka mengubah ide menjadi aplikasi fungsional dan responsif.
-
----
-
-### 🚀 Keahlian & Teknologi
-
-* **Pengembangan Web**: HTML, CSS, JavaScript
-* **_Backend_**: Python (Flask)
-* **Proyek Populer**: Desain formulir _login_, _website_ artikel sederhana, dan alat manipulasi data (misalnya, konversi TXT ke CSV).
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45C4B0&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Iqbal+Maulana;Web+Developer;Python+Enthusiast;Interactive+UI+Designer" alt="Typing SVG" />
+</div>
 
 ---
 
-### 💼 Proyek Terbaru
+### 👨‍💻 Seorang Pengembang Web & Enthusiast AI yang berfokus pada pembangunan aplikasi interaktif, intuitif, dan efisien.
 
-Berikut adalah beberapa _repository_ yang menonjol di profil saya:
-
-* **[Login-Form](https://github.com/iqbalmaulana228/Login-Form)**: Desain formulir _login_ yang bersih dan responsif menggunakan HTML dan CSS.
-* **[Web-Article-WPU](https://github.com/iqbalmaulana228/Web-Article-WPU)**: Contoh _layout_ artikel web sederhana yang terinspirasi dari WPU.
-* **[Matriks-Invers-2x2](https://github.com/iqbalmaulana228/Matriks-Invers-2x2)**: Implementasi sederhana untuk menghitung invers matriks 2x2 menggunakan JavaScript.
-* **[FlaskAPI](https://github.com/iqbalmaulana228/FlaskAPI)**: Eksplorasi dasar dalam membangun API menggunakan _framework_ Flask di Python.
-* **[TXT-File-to-CSV](https://github.com/iqbalmaulana228/TXT-File-to-CSV)**: Alat kecil untuk mengonversi data dari file `.txt` ke format `.csv`.
+- 🚀 Saat ini fokus pada: **Pengembangan Mobile & Eksperimen Computer Vision**
+- 🌱 Sedang memperdalam: **Optimasi Performa Backend & Cloud Architecture**
+- 💬 Tanya saya tentang: **React Native, Python, dan UI/UX Design**
+- ⚡ Fun Fact: "Ikan kodok ikan tomat, ngoding itu nikmat!" 😄
 
 ---
 
-### 🌱 Apa yang Sedang Saya Pelajari?
+### 🛠️ Tech Stack
 
-Saya selalu tertarik untuk mempelajari teknologi dan _framework_ baru untuk meningkatkan kemampuan saya sebagai pengembang. Saat ini, saya fokus pada eksplorasi lebih dalam tentang _backend_ dan optimasi performa aplikasi web.
+<div align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
 ---
 
-### 📬 Mari Terhubung!
+### 🌟 Featured Projects (Masterpieces)
 
-Saya terbuka untuk kolaborasi dan diskusi mengenai proyek menarik atau peluang baru. Jangan ragu untuk menghubungi saya!
-
-* **GitHub**: [iqbalmaulana228](https://github.com/iqbalmaulana228)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💰 Daily Financial Tracker</h3>
+      <img src="https://img.shields.io/badge/React_Native-Premium_UI-blue?style=flat-square" />
+      <p>Aplikasi mobile pelacak keuangan lengkap dengan visualisasi grafik SVG, manajemen budget, dan target tabungan. Fokus pada UX yang sangat mulus dan desain dark-mode premium.</p>
+      <a href="https://github.com/iqbalmaulana228/daily-financial-tracker"><b>Lihat Project →</b></a>
+    </td>
+    <td width="50%">
+      <h3 align="center">🖐️ Hand Tracking Simulation</h3>
+      <img src="https://img.shields.io/badge/OpenCV-MediaPipe-green?style=flat-square" />
+      <p>Simulasi interaktif menggunakan Computer Vision untuk melacak gerakan tangan secara real-time dan memanipulasi objek fisik virtual. Menggabungkan AI dengan mesin fisika Pygame.</p>
+      <a href="https://github.com/iqbalmaulana228/handtrackingTest"><b>Lihat Project →</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iqbalmaulana228&show_icons=true&theme=tokyonight&count_private=true" alt="Iqbal's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmaulana228&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+</div>
+
+---
+
+<div align="center">
+  <p>📬 <b>Mari Berkolaborasi!</b></p>
+  <a href="https://github.com/iqbalmaulana228">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
