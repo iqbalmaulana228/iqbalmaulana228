@@ -1,48 +1,55 @@
 # 💫 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45C4B0&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Iqbal+Maulana;Web+Developer;Python+Enthusiast;Interactive+UI+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45C4B0&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Iqbal+Maulana;Vibe+Coder+%E2%9C%A8;Web+Developer;Interactive+UI+Designer" alt="Typing SVG" />
 </div>
 
 ---
 
-### 👨‍💻 Seorang Pengembang Web & Enthusiast AI yang berfokus pada pembangunan aplikasi interaktif, intuitif, dan efisien.
+### 🚀 **Vibe Coding with Antigravity**
+Saya adalah seorang developer yang mengadopsi pola pikir **"Vibe Coding"** — membangun ide-ide kompleks dengan kecepatan tinggi melalui kolaborasi intensif dengan AI Coding Agent tercanggih: **Antigravity**. 🌌
 
-- 🚀 Saat ini fokus pada: **Pengembangan Mobile & Eksperimen Computer Vision**
+- ⚡ **Efficiency**: Membangun aplikasi mobile utuh hanya dalam hitungan jam.
+- 🎨 **Creative Focus**: AI menangani detail teknis, saya fokus pada kreativitas dan pengalaman pengguna.
+- 🌌 **Partnered with Antigravity**: Mengoptimalkan alur kerja pengkodean menggunakan agen AI paling kuat dari masa depan.
+
+---
+
+### 👨‍💻 Info Cepat
+- 🚀 Fokus: **Pengembangan Mobile & Eksperimen Computer Vision**
 - 🌱 Sedang memperdalam: **Optimasi Performa Backend & Cloud Architecture**
 - 💬 Tanya saya tentang: **React Native, Python, dan UI/UX Design**
 - ⚡ Fun Fact: "Ikan kodok ikan tomat, ngoding itu nikmat!" 😄
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <div align="left">
+  <img src="https://img.shields.io/badge/Antigravity-🌌-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vibe_Coding-✨-FFD700?style=for-the-badge" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 ---
 
-### 🌟 Featured Projects (Masterpieces)
+### 🌟 Featured Projects (Built with Vibe Coding)
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">💰 Daily Financial Tracker</h3>
-      <img src="https://img.shields.io/badge/React_Native-Premium_UI-blue?style=flat-square" />
-      <p>Aplikasi mobile pelacak keuangan lengkap dengan visualisasi grafik SVG, manajemen budget, dan target tabungan. Fokus pada UX yang sangat mulus dan desain dark-mode premium.</p>
+      <img src="https://img.shields.io/badge/Built_with-Antigravity-blueviolet?style=flat-square" />
+      <p>Aplikasi mobile pelacak keuangan lengkap dengan visualisasi grafik SVG dan desain premium. Bukti nyata efisiensi <i>Vibe Coding</i> dalam menghasilkan produk siap pakai dengan cepat.</p>
       <a href="https://github.com/iqbalmaulana228/daily-financial-tracker"><b>Lihat Project →</b></a>
     </td>
     <td width="50%">
       <h3 align="center">🖐️ Hand Tracking Simulation</h3>
-      <img src="https://img.shields.io/badge/OpenCV-MediaPipe-green?style=flat-square" />
-      <p>Simulasi interaktif menggunakan Computer Vision untuk melacak gerakan tangan secara real-time dan memanipulasi objek fisik virtual. Menggabungkan AI dengan mesin fisika Pygame.</p>
+      <img src="https://img.shields.io/badge/Tech-OpenCV_MediaPipe-green?style=flat-square" />
+      <p>Simulasi interaktif AI untuk melacak gerakan tangan real-time. Sebuah eksperimen <i>Human-Computer Interaction</i> (HCI) yang menggabungkan visi komputer dengan mesin fisika.</p>
       <a href="https://github.com/iqbalmaulana228/handtrackingTest"><b>Lihat Project →</b></a>
     </td>
   </tr>
@@ -60,7 +67,7 @@
 ---
 
 <div align="center">
-  <p>📬 <b>Mari Berkolaborasi!</b></p>
+  <p>📬 <b>Let's Vibe and Collaborate!</b></p>
   <a href="https://github.com/iqbalmaulana228">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
