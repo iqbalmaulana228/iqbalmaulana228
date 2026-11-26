@@ -19,6 +19,28 @@ My experience and interests include application development, business-process au
 - **Currently exploring:** Backend architecture, cloud deployment, OCR workflows, and distributed database systems.
 - **Development approach:** Iterative prototyping, practical problem-solving, and AI-assisted coding tools.
 
+## 🏅 Operator Achievement Badges
+
+<div align="center">
+
+| | Achievement | |
+|---|---|---|
+| <img src="https://img.shields.io/badge/01-ROOKIE%20OPERATOR-4B5563?style=for-the-badge&logo=github&logoColor=white" /> | **Rookie Operator** | First steps into the world of software development |
+| <img src="https://img.shields.io/badge/02-FRONTLINE%20CODER-2563EB?style=for-the-badge" /> | **Frontline Coder** | Building web interfaces and practical applications |
+| <img src="https://img.shields.io/badge/03-STACK%20BUILDER-0891B2?style=for-the-badge" /> | **Stack Builder** | Exploring JavaScript, TypeScript, Python and SQL |
+| <img src="https://img.shields.io/badge/04-AUTOMATION%20SPECIALIST-7C3AED?style=for-the-badge" /> | **Automation Specialist** | Turning repetitive tasks into automated workflows |
+| <img src="https://img.shields.io/badge/05-DATA%20KEEPER-0F766E?style=for-the-badge" /> | **Data Keeper** | Working with databases, data processing and analytics |
+| <img src="https://img.shields.io/badge/06-VISION%20ENGINEER-EA580C?style=for-the-badge" /> | **Vision Engineer** | Experimenting with OCR and computer vision |
+| <img src="https://img.shields.io/badge/07-TACTICAL%20DEPLOYER-16A34A?style=for-the-badge" /> | **Tactical Deployer** | Deploying apps and learning cloud workflows |
+| <img src="https://img.shields.io/badge/08-PROTOTYPE%20ARTISAN-DB2777?style=for-the-badge" /> | **Prototype Artisan** | Shipping prototypes and learning by implementation |
+| <img src="https://img.shields.io/badge/09-OPEN%20SOURCE%20ALLY-1D4ED8?style=for-the-badge" /> | **Open Source Ally** | Participating in collaborative development |
+| <img src="https://img.shields.io/badge/10-RHODES%20ISLAND%20DEV-140A9A?style=for-the-badge" /> | **Rhodes Island Dev** | A versatile developer-in-training, ready for the next mission |
+
+</div>
+
+<sub>Inspired by Arknights operator and achievement aesthetics. Fan-made profile badges, not official game achievements.</sub>
+
+
 ## Tech Stack & Tools
 
 <div align="center">
