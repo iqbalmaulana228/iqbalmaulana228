@@ -19,27 +19,74 @@ My experience and interests include application development, business-process au
 - **Currently exploring:** Backend architecture, cloud deployment, OCR workflows, and distributed database systems.
 - **Development approach:** Iterative prototyping, practical problem-solving, and AI-assisted coding tools.
 
-## 🏅 Operator Achievement Badges
+## 🏆 Operator Achievements
 
 <div align="center">
 
-| | Achievement | |
-|---|---|---|
-| <img src="https://img.shields.io/badge/01-ROOKIE%20OPERATOR-4B5563?style=for-the-badge&logo=github&logoColor=white" /> | **Rookie Operator** | First steps into the world of software development |
-| <img src="https://img.shields.io/badge/02-FRONTLINE%20CODER-2563EB?style=for-the-badge" /> | **Frontline Coder** | Building web interfaces and practical applications |
-| <img src="https://img.shields.io/badge/03-STACK%20BUILDER-0891B2?style=for-the-badge" /> | **Stack Builder** | Exploring JavaScript, TypeScript, Python and SQL |
-| <img src="https://img.shields.io/badge/04-AUTOMATION%20SPECIALIST-7C3AED?style=for-the-badge" /> | **Automation Specialist** | Turning repetitive tasks into automated workflows |
-| <img src="https://img.shields.io/badge/05-DATA%20KEEPER-0F766E?style=for-the-badge" /> | **Data Keeper** | Working with databases, data processing and analytics |
-| <img src="https://img.shields.io/badge/06-VISION%20ENGINEER-EA580C?style=for-the-badge" /> | **Vision Engineer** | Experimenting with OCR and computer vision |
-| <img src="https://img.shields.io/badge/07-TACTICAL%20DEPLOYER-16A34A?style=for-the-badge" /> | **Tactical Deployer** | Deploying apps and learning cloud workflows |
-| <img src="https://img.shields.io/badge/08-PROTOTYPE%20ARTISAN-DB2777?style=for-the-badge" /> | **Prototype Artisan** | Shipping prototypes and learning by implementation |
-| <img src="https://img.shields.io/badge/09-OPEN%20SOURCE%20ALLY-1D4ED8?style=for-the-badge" /> | **Open Source Ally** | Participating in collaborative development |
-| <img src="https://img.shields.io/badge/10-RHODES%20ISLAND%20DEV-140A9A?style=for-the-badge" /> | **Rhodes Island Dev** | A versatile developer-in-training, ready for the next mission |
+<sub>RHODES ISLAND PERSONNEL RECORD • OPERATOR RECOGNITION SYSTEM</sub>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/★-ROOKIE%20OPERATOR-64748B?style=for-the-badge&labelColor=1F2937" /><br/>
+<b>Recruitment Record</b><br/><sub>Profile initialized</sub><br/><sub>◈ 1★ • Starter</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/★★-FRONTLINE%20CODER-2563EB?style=for-the-badge&labelColor=172554" /><br/>
+<b>Frontline Coder</b><br/><sub>Build web interfaces & apps</sub><br/><sub>◈ 2★ • Vanguard</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/★★★-STACK%20BUILDER-0891B2?style=for-the-badge&labelColor=164E63" /><br/>
+<b>Stack Builder</b><br/><sub>Explore multiple technologies</sub><br/><sub>◈ 3★ • Specialist</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/★★★★-AUTOMATION-7C3AED?style=for-the-badge&labelColor=4C1D95" /><br/>
+<b>Automation Specialist</b><br/><sub>Automate repetitive workflows</sub><br/><sub>◈ 4★ • Specialist</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/★★★-DATA%20KEEPER-0F766E?style=for-the-badge&labelColor=134E4A" /><br/>
+<b>Data Keeper</b><br/><sub>Database & data processing</sub><br/><sub>◈ 3★ • Support</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/★★★★-VISION%20ENGINEER-EA580C?style=for-the-badge&labelColor=7C2D12" /><br/>
+<b>Vision Engineer</b><br/><sub>OCR & computer vision projects</sub><br/><sub>◈ 4★ • Specialist</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/★★★-TACTICAL%20DEPLOYER-16A34A?style=for-the-badge&labelColor=14532D" /><br/>
+<b>Tactical Deployer</b><br/><sub>Deploy apps to the cloud</sub><br/><sub>◈ 3★ • Support</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/★★★★-PROTOTYPE%20ARTISAN-DB2777?style=for-the-badge&labelColor=831843" /><br/>
+<b>Prototype Artisan</b><br/><sub>Turn ideas into working builds</sub><br/><sub>◈ 4★ • Specialist</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/★★★-OPEN%20SOURCE%20ALLY-1D4ED8?style=for-the-badge&labelColor=1E3A8A" /><br/>
+<b>Open Source Ally</b><br/><sub>Collaborative contribution</sub><br/><sub>◈ 3★ • Support</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/★★★★★-RHODES%20ISLAND%20DEV-140A9A?style=for-the-badge&labelColor=111827" /><br/>
+<b>Rhodes Island Dev</b><br/><sub>Multi-discipline operator</sub><br/><sub>◈ 5★ • Elite</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/LOCKED-ELITE%20MISSION-52525B?style=for-the-badge&labelColor=27272A" /><br/>
+<b>Elite Mission</b><br/><sub>Future milestone</sub><br/><sub>◈ 6★ • Locked</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/LOCKED-LEGENDARY-52525B?style=for-the-badge&labelColor=27272A" /><br/>
+<b>Legendary Operator</b><br/><sub>Future milestone</sub><br/><sub>◈ 6★ • Locked</sub>
+</td>
+</tr>
+</table>
+
+<sub>Fan-made Arknights-inspired achievement collection • Custom profile badges, not official GitHub or Arknights achievements.</sub>
 
 </div>
-
-<sub>Inspired by Arknights operator and achievement aesthetics. Fan-made profile badges, not official game achievements.</sub>
-
 
 ## Tech Stack & Tools
 
